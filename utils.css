@@ -1,0 +1,26 @@
+.text-center{
+   text-align: center;
+}
+body{
+    background:gainsboro;
+}
+.mx-auto{
+}
+.flex{
+   display: flex;
+}
+.flex-col{
+   flex-direction: column;
+}
+.items-center{
+    align-items:center;
+
+}
+@media  screen and (max-width:400px) {
+   body{
+        
+   }
+   .calculater{
+
+   }
+}
